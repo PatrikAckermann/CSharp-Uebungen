@@ -10,3 +10,6 @@ FizzBuzz: Listet alle Nummern von 0 bis 100 auf. Alle die durch 3 teilbar sind, 
 Ratespiel (GuessingGame): Rate eine Zahl in einer vom Nutzer festgelegten Spanne. Das Programm sagt ob die Zahl kleiner oder grösser ist.
 Pyramide (Pyramid): Zeichnet eine Pyramide in der Konsole mit einer vom Nutzer festgelegten Höhe. 
 Sanduhr (Hourglass): Zeichnet eine Sanduhr in der Konsole mit einer vom Nutzer festgelegten Höhe.
+
+**FileReaderWriter**  
+Zum Lesen und Schreiben von Dateien.
