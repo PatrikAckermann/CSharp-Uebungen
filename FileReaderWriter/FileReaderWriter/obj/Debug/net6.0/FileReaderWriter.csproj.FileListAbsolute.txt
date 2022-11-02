@@ -1,0 +1,15 @@
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\obj\Debug\net6.0\FileReaderWriter.csproj.AssemblyReference.cache
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\obj\Debug\net6.0\FileReaderWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\obj\Debug\net6.0\FileReaderWriter.AssemblyInfoInputs.cache
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\obj\Debug\net6.0\FileReaderWriter.AssemblyInfo.cs
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\obj\Debug\net6.0\FileReaderWriter.csproj.CoreCompileInputs.cache
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\bin\Debug\net6.0\FileReaderWriter.exe
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\bin\Debug\net6.0\FileReaderWriter.deps.json
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\bin\Debug\net6.0\FileReaderWriter.runtimeconfig.json
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\bin\Debug\net6.0\FileReaderWriter.dll
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\bin\Debug\net6.0\FileReaderWriter.pdb
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\obj\Debug\net6.0\FileReaderWriter.dll
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\obj\Debug\net6.0\refint\FileReaderWriter.dll
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\obj\Debug\net6.0\FileReaderWriter.pdb
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\obj\Debug\net6.0\FileReaderWriter.genruntimeconfig.cache
+C:\Users\paac\source\repos\FileReaderWriter\FileReaderWriter\obj\Debug\net6.0\ref\FileReaderWriter.dll
