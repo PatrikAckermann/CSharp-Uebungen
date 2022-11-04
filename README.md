@@ -13,3 +13,6 @@ Sanduhr (Hourglass): Zeichnet eine Sanduhr in der Konsole mit einer vom Nutzer f
 
 **FileReaderWriter**  
 Zum Lesen und Schreiben von Dateien.
+
+**Fighter Game**  
+Lässt automatisch 2 Kämpfer kämpfen. Es gibt 2 unterschiedliche Typen Kämpfer. Es gibt den "Puncher" und den "Kicker". Jeder dieser Kämpfer hat einen Spezialangriff. Per zufall wird entschieden wer angreifft und ob es ein Standard- oder Spezialangriff ist. Nachdem der Kampf vorbei ist wird der Punktestand angezeigt und das Programm fragt ob man die Kämpfer noch einmal kämpfen lassen möchte.
