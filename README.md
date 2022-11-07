@@ -16,3 +16,9 @@ Zum Lesen und Schreiben von Dateien.
 
 **Fighter Game**  
 Lässt automatisch 2 Kämpfer kämpfen. Es gibt 2 unterschiedliche Typen von Kämpfer. Es gibt den "Puncher" und den "Kicker". Jeder dieser Kämpfer hat einen Spezialangriff. Per Zufall wird entschieden wer angreift und ob es ein Standard- oder Spezialangriff ist. Nachdem der Kampf vorbei ist wird der Punktestand angezeigt und das Programm fragt ob man die Kämpfer noch einmal kämpfen lassen möchte.
+
+**WPF Einführung**  
+Erste Übung zur Windows Presentation Foundation. Das Programm hat mehrere Buttons, die die Benutzeroberfläche verändern.
+
+**File Editor**  
+WPF Version des FileReaderWriter Programmes. Wenn man eine Datei geöffnet hat, wird der Text in den Editor kopiert und der Editor wird entsperrt. Den Text kann man dann bearbeiten und mit dem Speichern Knopf abspeichern.
