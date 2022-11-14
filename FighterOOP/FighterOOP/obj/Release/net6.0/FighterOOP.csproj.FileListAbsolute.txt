@@ -1,0 +1,15 @@
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\bin\Release\net6.0\FighterOOP.exe
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\bin\Release\net6.0\FighterOOP.deps.json
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\bin\Release\net6.0\FighterOOP.runtimeconfig.json
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\bin\Release\net6.0\FighterOOP.dll
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\bin\Release\net6.0\FighterOOP.pdb
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\obj\Release\net6.0\FighterOOP.csproj.AssemblyReference.cache
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\obj\Release\net6.0\FighterOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\obj\Release\net6.0\FighterOOP.AssemblyInfoInputs.cache
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\obj\Release\net6.0\FighterOOP.AssemblyInfo.cs
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\obj\Release\net6.0\FighterOOP.csproj.CoreCompileInputs.cache
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\obj\Release\net6.0\FighterOOP.dll
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\obj\Release\net6.0\refint\FighterOOP.dll
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\obj\Release\net6.0\FighterOOP.pdb
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\obj\Release\net6.0\FighterOOP.genruntimeconfig.cache
+C:\Users\paac\source\repos\FighterOOP\FighterOOP\obj\Release\net6.0\ref\FighterOOP.dll
